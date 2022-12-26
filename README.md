@@ -2,11 +2,20 @@
 
 ---
 
+rust
+
 ```
-cargo run
+$ cargo run
 ```
 
-运行实例
+c++
+
+```
+$ g++ banker.cc -o banker
+$ ./banker
+```
+
+运行实例(rust)
 
 ```
 进程数> 5
